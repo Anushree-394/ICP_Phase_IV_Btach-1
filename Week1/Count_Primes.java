@@ -11,23 +11,23 @@ public class Count_Primes {
         }
         int[] arr=new int[n];
         arr[0]=1;
-        arr[1]=1;
+        arr[1]=1; 
         for(int i=2;i<arr.length;i++){
-            arr[i]=0;
+            arr[i]=0; // sbh ko ek bari prime consider krdena
         }
         for(int i=2;i*i<n;i++){
             if(arr[i]==0){
                 for(int j=i*i;j<n;j=j+i){
                     if(j%i==0){
-                        arr[j]=1;
+                        arr[j]=1; //NON PRIME marked
                     }
                 }
             }
         }
         int c=0;
         for(int i=0;i<n;i++){
-            if(arr[i]==0){
-                c++;
+            if(arr[i]==0){ //prime no are marked
+                c++; 
             }
 
         }
