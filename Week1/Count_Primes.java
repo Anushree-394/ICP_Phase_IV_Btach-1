@@ -32,6 +32,7 @@ public class Count_Primes {
 
         }
        System.out.println(c);
+       sc.close();
 
     }
 }

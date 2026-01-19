@@ -12,6 +12,7 @@ public class First_Missing_positive {
             while(nums[i]>=1 && nums[i]<=n && nums[nums[i]-1]!=nums[i]){//idhar hmne jo no hai usko check kiya ki bo apni proper indexx pr baitha hai ki nhiii 
             int index=nums[i]-1; //appropriate index to which ele belong to
             //swap ele to appropraite index
+            
             int temp=nums[i];
             nums[i]=nums[index];
             nums[index]=temp;

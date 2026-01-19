@@ -1,6 +1,6 @@
 package Week1;
 import java.util.*;
-public class 3_Sum {
+public class Three_Sum {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
