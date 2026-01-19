@@ -1,76 +1,133 @@
-📅 Week 1 – Revision & Challenge Zone
-📌 Overview
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DSA+Weekly+Progress+Tracker;Consistent+DSA+Preparation;Interview+Focused+Roadmap" />
+</p>
 
-Week 1 focused on strengthening core problem-solving fundamentals through a balanced set of revision problems and challenge-level questions. The aim was to revise important concepts and apply them to real competitive programming problems.
+<p align="center">
+A structured and consistent journey through <b>Data Structures & Algorithms</b>,  
+focused on concept clarity, pattern mastery, and interview readiness.
+</p>
 
-📊 Problem Distribution
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-Weekly-16A34A?style=for-the-badge"/>
+</p>
 
-Total Problems Solved: 12
+---
 
-Revision Problems: 6
+## 📘 About This Repository
 
-Challenge Problems: 6
+> This repository documents my **week-by-week DSA preparation** with a strong focus on:
+- Concept clarity  
+- Problem-solving patterns  
+- Interview-oriented questions  
+- Clean and readable implementations  
 
-🔁 Revision Problems (6)
+---
 
-These problems were selected to revise key data structures and algorithmic concepts.
+## 📅 Week 1 – Revision & Challenge Zone
 
-3Sum
+### 📌 Overview
+Week 1 focused on strengthening **core problem-solving fundamentals** through a balanced mix of **revision problems** and **challenge-level questions**.
 
-Best Time to Buy and Sell Stock
+---
 
-First Missing Positive
+### 📊 Problem Distribution
+- **Total Problems Solved:** 12  
+- **Revision Problems:** 6  
+- **Challenge Problems:** 6  
 
-Index of First Occurrence
+---
 
-Median of Two Sorted Arrays
+### 🔁 Revision Problems
+- 3Sum  
+- Best Time to Buy and Sell Stock  
+- First Missing Positive  
+- Index of First Occurrence  
+- Median of Two Sorted Arrays  
+- Sieve of Eratosthenes  
 
-Sieve of Eratosthenes
+> **Focus:** Arrays, searching, mathematical logic, and optimization techniques.
 
-📌 Focus: Arrays, searching, mathematical logic, and optimization techniques.
+---
 
-⚔️ Challenge Problems (6)
+### ⚔️ Challenge Problems
+- ADA and Fence *(SPOJ)*  
+- Ehab Fails to Be Thanos *(Codeforces)*  
+- Hotels Along the Croatian Coast *(SPOJ)*  
+- Music in Car *(Codeforces)*  
+- Remove the Substring *(Easy Version – Codeforces)*  
+- SHINCHARD – Minimum Time to Cross the Bridge  
 
-Competitive programming problems sourced from platforms like SPOJ and Codeforces to improve analytical and problem-solving depth.
+> **Focus:** Edge cases, greedy logic, constraints, and efficiency.
 
-ADA and Fence (SPOJ)
+---
 
-Ehab Fails to Be Thanos (Codeforces)
+### 🎯 Learning Outcomes
+✔ Revised core algorithmic concepts  
+✔ Improved competitive programming confidence  
+✔ Built a strong foundation for upcoming weeks  
 
-Hotels Along the Croatian Coast (SPOJ)
+---
 
-Music in Car (Codeforces)
+## 📅 Week 2 – Stack Mastery (Foundation → Advanced)
 
-Remove the Substring (Easy Version) (Codeforces)
+### 📌 Overview
+Week 2 was entirely dedicated to the **Stack data structure**, progressing from **basic operations** to **advanced monotonic stack patterns** commonly asked in interviews.
 
-SHINCHARD – Minimum Time to Cross the Bridge
+---
 
-📌 Focus: Edge cases, greedy logic, constraints handling, and efficient solutions.
+### 🧱 Foundation Level – Must Do
+- Valid Parentheses  
+- Valid Parenthesis String  
+- Reverse a String using Stack  
+- Delete Middle Element of a Stack *(Recursion)*  
+- Baseball Game  
+- Remove Outermost Parentheses  
+- Backspace String Compare  
 
-🎯 Learning Outcomes
+---
 
-Revised important algorithmic concepts
+### 🧠 Logic Building (Moderate)
+- Next Greater Element I  
+- Help Classmates *(GFG)*  
+- Min Stack *(O(1) getMin)*  
 
-Improved confidence in solving standard problems
+---
 
-Gained exposure to competitive programming challenges
+### ⚙️ Medium – Hard Stack Problems
+- Next Greater Element II *(Circular Array)*  
+- Daily Temperatures  
+- Asteroid Collision  
+- Decode String  
+- Stock Span Problem  
+- Largest Rectangle in Histogram  
+- Trapping Rain Water *(Stack Method)*  
+- Sum of Subarray Minimums  
+- Longest Valid Parentheses  
+- Remove K Digits  
 
-Built a strong base for upcoming weeks
+---
 
-📂 Folder Structure
-Week-1/
-│── Revision/
-│   ├── 3Sum.java
-│   ├── Best_Time_To_Buy_and_Sell.java
-│   ├── First_Missing_Positive.java
-│   ├── Index_Of_First_Occurrence.java
-│   ├── Median_Of_Two_Sorted_Array.java
-│   └── Sieve_of_Eratosthenes.java
-│
-│── Challenges/
-│   ├── ADA_and_Fence.java
-│   ├── Ehab_Fails_To_Be_Thanos.java
-│   ├── Hotels_Along_Croatian_Coast.java
-│   ├── Music_in_Car.java
-│   ├── Remove_the_Substring.java
-│   └── SHINCHARD.java
+### 📚 Theory – Stack Applications
+- Infix, Prefix & Postfix Expressions  
+- Implement Stack using Array  
+
+---
+
+### 🎯 Learning Outcomes
+✔ Deep understanding of stack behavior  
+✔ Mastery of monotonic stack patterns  
+✔ Strong interview-level confidence  
+✔ Improved logical & analytical thinking  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⭐ <b>Star this repository if you like structured DSA preparation</b><br/>
+<i>Upcoming weeks: Queue, Linked List, Trees, Graphs, DP</i>
+</p>
