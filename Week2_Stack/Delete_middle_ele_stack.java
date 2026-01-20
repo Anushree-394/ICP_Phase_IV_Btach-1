@@ -9,6 +9,7 @@ public class Delete_middle_ele_stack {
 
     }
     // space complexity-> O(n) // uses extra space
+    //time complexity-> O(n/2)
 
     public static void deleteMid(Stack<Integer> s) {
         

@@ -14,13 +14,16 @@ public class Baseball_game {
     public static  int calPoints(String[] operations) {
         Stack<Integer> st=new Stack<>();
         for(String s:operations){
+            // if c is found the ele are being cleared
             if(s.equals("C")){
                 st.pop();
             }
+            // last ele is being doubled and thn push into stack
             else if(s.equals("D")){
                 int x=st.peek();
                 st.push(2*x);
             }
+            // last two ele are popped out and being added and then again pushed into stack
             else if(s.equals("+")){
                 int a=st.pop();
                 int b=st.pop();
@@ -41,3 +44,5 @@ public class Baseball_game {
 
     }
 }
+// space complexity-> o(n); -> DUE TO STACK;
+//Time complexity-> o(n)-> since whole string is traversed
