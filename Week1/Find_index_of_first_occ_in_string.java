@@ -1,3 +1,4 @@
+package Week1;
 import java.util.*;
 public class Find_index_of_first_occ_in_string {
     public static void main(String[] args){
